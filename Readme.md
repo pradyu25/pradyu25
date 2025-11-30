@@ -127,8 +127,3 @@ I believe in a world where **algorithms inspire creativity**, not replace it.
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pradyu25&label=Neon+Visitors&icon=0&color=11">
-  </a>
-</p>
